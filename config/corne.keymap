@@ -49,7 +49,7 @@
    &kp  TAB  &kp EXCL &kp AT &kp HASH &kp DLLR &kp PRCNT   &kp CARET &kp AMPS  &kp ASTRK &kp LPAR &kp RPAR &kp BSPC
    &kp LCTRL &TAB   &trans &kp LGUI(LEFT)   &kp LGUI(RIGHT)   &kp TILDE      &kp MINUS &kp EQUAL &kp LBKT  &kp RBKT &kp BSLH &kp GRAVE
    &kp LSHFT &LCTRL   &trans &trans   &trans   &kp GRAVE      &kp UNDER &kp PLUS  &kp LBRC  &kp RBRC &kp PIPE &kp TILDE
-                             &trans &LGUI   &trans   &trans   &kp RALT    &trans
+                             &trans &kp LGUI   &trans   &trans   &kp RALT    &trans
                         >;
                 };
         };
